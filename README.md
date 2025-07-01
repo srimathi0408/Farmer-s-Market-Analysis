@@ -18,11 +18,6 @@ This project uses **Power BI** to visualize and analyze crop data for farmers in
 | `Farmers_Market_Data.xlsx` | Dataset containing crop sales, prices, transport costs, etc. |
 | `Farmer_Analysis.pbix`     | Power BI file with visuals and insights (to be added) |
 
-
-## Optional: Dashboard Screenshot
-![image](https://github.com/user-attachments/assets/200c3704-3c09-4209-bb8e-a97e56c8fc2e)
-
-
 ## How to Use
 
 1. Clone or download the repository
