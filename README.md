@@ -3,10 +3,10 @@
 This project uses **Power BI** to visualize and analyze crop data for farmers in Tamil Nadu. It helps understand how factors like crop type, market, month, price, and transport cost affect **profitability**.
 
 ## Key Features:
-  Price Trends by month and crop
-  Profit comparison by crop and market
-  Interactive map showing quantity sold by location
-  Text Insight included for data storytelling
+  **Price Trends** by month and crop
+  **Profit comparison** by crop and market
+  ** Interactive map** showing quantity sold by location
+  **Text Insight** included for data storytelling
 
 ## Insight Highlight
    Farmers in Tamil Nadu get higher profit selling **tomatoes in July** at the **Chennai market** due to **high demand and low transport cost**.
